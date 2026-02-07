@@ -47,22 +47,6 @@ Castle Hill is transitioning from predominantly low‑density housing to a highe
 
 ## Project status
 
-Following issues with the original developer, ALAND has been engaged to complete the remaining three buildings and rectify structural concerns in the shared basement.[web:14][web:15][web:21] The completed development is expected to deliver around 964 apartments in total, significantly adding to local housing and build‑to‑rent stock in North‑West Sydney.[web:14][web:15][web:21]
+Following issues with the original developer, ALAND has been engaged to complete the remaining three buildings.[web:14][web:15][web:21] The completed development is expected to deliver around 964 apartments in total, significantly adding to local housing and build‑to‑rent stock in North‑West Sydney.[web:14][web:15][web:21]
 
-## Repository purpose
 
-This repository can be used to:
-
-- Document project information, status updates, and public data for the Skyview – Castle Hill development.  
-- Store analytical notebooks, visualisations, or reports related to planning, construction progress, or community impact (if applicable).  
-- Track issues, notes, or research related to high‑rise residential projects and build‑to‑rent developments in the Hills District.
-
-## Getting started
-
-If this repository will include code or data analysis, you can add sections such as:
-
-- `data/` – Publicly available datasets or derived metrics about the project or local area.  
-- `notebooks/` – Jupyter or other notebooks analysing housing, transport, or demographic impacts.  
-- `docs/` – Additional documentation, images, or reports.
-
-Update this README as you define the exact scope of the project and add content to the repository.
